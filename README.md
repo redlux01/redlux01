@@ -94,7 +94,7 @@ redlux01@kali:~$ _
 ## 🗺️ Roadmap
 
 - [x] Start TryHackMe
-- [ ] **Pre Security** path
+- [x] **Pre Security** path
 - [ ] **Introduction to Cyber Security** path
 - [ ] First home lab box rooted
 - [ ] 10 picoCTF challenges

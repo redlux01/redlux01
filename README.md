@@ -49,16 +49,16 @@ redlux01@kali:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261101" width="100%" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261102" width="100%" alt="profile summary" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261101" width="49%" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261101" width="49%" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261102" width="49%" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redlux01&theme=github_dark&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&icon_color=ff3b3b&border_color=30363d&v=20261102" width="49%" alt="languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=redlux01&hide_border=true&background=0D1117&stroke=30363d&ring=FF3B3B&fire=FF3B3B&currStreakNum=ffffff&currStreakLabel=FF3B3B&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&v=20261101" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=redlux01&hide_border=true&background=0D1117&stroke=30363d&ring=FF3B3B&fire=FF3B3B&currStreakNum=ffffff&currStreakLabel=FF3B3B&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&v=20261102" alt="streak" />
 
 </div>
 
